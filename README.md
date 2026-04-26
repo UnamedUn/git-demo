@@ -19,3 +19,5 @@ Thanks for your attention.
 
 Спасибо за внимание.
 Наше вам.
+
+Это добавлено в IntelliJIdea
